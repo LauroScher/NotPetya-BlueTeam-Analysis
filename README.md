@@ -19,4 +19,4 @@ O projeto consistiu em dissecar a anatomia do ataque (que operou como um *Wiper*
 * Roberto Dourado - Execução de Laboratórios  
 * **Orientador:** Prof. Eduardo Muller
 
-📄 **[Clique aqui para ler o relatório completo em PDF](https://github.com/LauroScher/NotPetya-BlueTeam-Analysis/blob/main/APT-Caso_de_Estudo-NotPetya.pdf)**
+📄 **[Clique aqui para ler o relatório completo em PDF](https://drive.google.com/file/d/1XeWMdU4x2T7onbCwS1KLpEmmbcccO29N/view?usp=sharing)**
